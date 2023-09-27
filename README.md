@@ -1,5 +1,5 @@
 # Computer-Networks-IUST
-My solutions to IUST's Computer Networks, Fall 2023, Dr. Movahedi.
+My solutions to IUST's Computer Networks, Spring 2023, Dr. Movahedi.
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks
 ### HW1
